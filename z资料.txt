@@ -1,0 +1,37 @@
+需求文档：https://docs.qq.com/doc/DUHV2d3htWUZIRnJN
+
+前台码云：git@kf.nsd2020.com:pt/gylshopweb
+
+后台码云：git@kf.nsd2020.com:pt/gylshop
+
+手机端码云：git@kf.nsd2020.com:pt/gylshopmove
+
+前台原型：https://x73vgx.axshare.com/#id=qcg6u3&p=%E9%A6%96%E9%A1%B5%E2%88%9A%E2%88%9A
+
+后台原型：https://zv4e34.axshare.com/#id=v6ldvq&p=%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86&g=1
+
+后台类目管理原型：https://nuj9n2.axshare.com/#id=6lhb50&p=%E7%B1%BB%E7%9B%AE%E7%AE%A1%E7%90%86&g=1
+
+后台UI：https://lanhuapp.com/web/#/item/project/stage?tid=00ff2778-ddb7-4e10-9e40-09d2f151a4d4&pid=192d6b4a-641f-4848-81fe-530384e4c696
+
+前台UI:https://lanhuapp.com/web/#/item/project/stage?tid=00ff2778-ddb7-4e10-9e40-09d2f151a4d4&pid=736eeb65-31a6-440a-b4ac-e82bd675542b
+
+手机端UI:https://lanhuapp.com/web/#/item/project/stage?tid=00ff2778-ddb7-4e10-9e40-09d2f151a4d4&pid=3db3be27-a292-4995-9c9b-b1d96fad2c43
+
+## Git 提交规范
+- `feat` 新功能
+- `fix` 修补 bug
+- `perf` 优化相关，比如提升性能、体验
+- `docs` 文档
+- `style` 格式、样式(不影响代码运行的变动)
+- `refactor` 重构(即不是新增功能，也不是修改 BUG 的代码)
+- `test` 添加测试
+- `build` 编译相关的修改，对项目构建或者依赖的改动
+- `ci` 持续集成修改
+- `chore` 构建过程或辅助工具的变动
+- `revert` 回滚到上一个版本
+- `workflow` 工作流改进
+- `mod` 不确定分类的修改
+- `wip` 开发中
+- `types` 类型
+
